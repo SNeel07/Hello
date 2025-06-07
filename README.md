@@ -1,4 +1,4 @@
 # Hello
 This is my first Git Repository
 <br>
-Author - Subhraneel
+Author - Subhraneel Pal
